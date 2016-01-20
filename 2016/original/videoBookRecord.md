@@ -7,6 +7,7 @@
 
 # 电视剧
 1. [无法阻挡的High Kick/搞笑一家人](http://movie.douban.com/subject/2360882/)
+2. [勇者义彦与魔王城](http://movie.douban.com/subject/6402151/)
 
 # 动漫
 
