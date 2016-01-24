@@ -2,6 +2,7 @@
 1. [富爸爸穷爸爸](http://book.douban.com/subject/6438293/) 
 
 # 电影
+1. [低俗小说](http://movie.douban.com/subject/1291832/)
 
 # TED
 
