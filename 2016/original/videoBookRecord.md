@@ -10,6 +10,9 @@
 
 # TED
 
+# 纪录片
+1. [中国新年：全球最大庆典](http://movie.douban.com/subject/26712210/)
+
 # 电视剧
 1. [无法阻挡的High Kick/搞笑一家人](http://movie.douban.com/subject/2360882/)
 2. [勇者义彦与魔王城](http://movie.douban.com/subject/6402151/)
