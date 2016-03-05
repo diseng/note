@@ -9,6 +9,7 @@
 4. [唐人街探案](http://movie.douban.com/subject/26311973/)
 5. [万万没想到](http://movie.douban.com/subject/26320029/)
 6. [精灵旅社2](http://movie.douban.com/subject/21327493/)
+7. [聚焦](https://movie.douban.com/subject/25954475/)
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
