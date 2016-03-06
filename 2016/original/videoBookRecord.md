@@ -1,15 +1,16 @@
 # 书籍
-1. [富爸爸穷爸爸](http://book.douban.com/subject/6438293/) 
+1. [富爸爸穷爸爸](http://book.douban.com/subject/6438293/) 推荐
 2. [创业维艰](http://book.douban.com/subject/26306686/)
 
 # 电影
 1. [低俗小说](http://movie.douban.com/subject/1291832/)
 2. [美人鱼](http://movie.douban.com/subject/19944106/)
 3. [西游记之孙悟空三打白骨精](http://movie.douban.com/subject/25827963/)
-4. [唐人街探案](http://movie.douban.com/subject/26311973/)
+4. [唐人街探案](http://movie.douban.com/subject/26311973/) 推荐
 5. [万万没想到](http://movie.douban.com/subject/26320029/)
 6. [精灵旅社2](http://movie.douban.com/subject/21327493/)
 7. [聚焦](https://movie.douban.com/subject/25954475/)
+8. [机械姬](https://movie.douban.com/subject/4160540/)
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
