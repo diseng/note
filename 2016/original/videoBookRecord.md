@@ -11,6 +11,7 @@
 6. [精灵旅社2](http://movie.douban.com/subject/21327493/)
 7. [聚焦](https://movie.douban.com/subject/25954475/)
 8. [机械姬](https://movie.douban.com/subject/4160540/)
+9. [疯狂动物城](https://movie.douban.com/subject/25662329)
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
