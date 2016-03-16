@@ -28,5 +28,6 @@
 2. [勇者义彦与魔王城](http://movie.douban.com/subject/6402151/)
 
 # 动漫
+1. [南方公园 第四季](https://movie.douban.com/subject/4882613/)
 
 # 漫画
