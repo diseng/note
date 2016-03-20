@@ -14,6 +14,7 @@
 9. [疯狂动物城](https://movie.douban.com/subject/25662329)
 10. [禁闭岛](https://movie.douban.com/subject/2334904/)
 11. [拯救大兵瑞恩](https://movie.douban.com/subject/1292849/) 推荐
+12. [寻龙诀](https://movie.douban.com/subject/3077412/)
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
