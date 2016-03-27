@@ -21,6 +21,7 @@
 2. [Andrew Solomon-Depression: the secret we share](http://v.youku.com/v_show/id_XNjY4Njc0Mzky.html)
 3. [如何成为一个更好的交谈者?](http://open.163.com/movie/2016/3/F/E/MBFLN6BJF_MBFLNJGFE.html)
 4. [怎样用纸巾擦手](http://open.163.com/movie/2014/12/D/4/MAD7E5IC1_MAD7MRKD4.html) 推荐
+5. [鲁豫有约:罗永浩·天生骄傲的理想主义者](http://v.qq.com/cover/a/akyu3b8m0gy79od.html)
 
 # 纪录片
 1. [中国新年：全球最大庆典](http://movie.douban.com/subject/26712210/)
