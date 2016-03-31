@@ -1,6 +1,7 @@
 # 书籍
 1. [富爸爸穷爸爸](http://book.douban.com/subject/6438293/) 推荐
 2. [创业维艰](http://book.douban.com/subject/26306686/)
+3. [奇石](https://book.douban.com/subject/25833450/)
 
 # 电影
 1. [低俗小说](http://movie.douban.com/subject/1291832/)
@@ -22,6 +23,7 @@
 3. [如何成为一个更好的交谈者?](http://open.163.com/movie/2016/3/F/E/MBFLN6BJF_MBFLNJGFE.html)
 4. [怎样用纸巾擦手](http://open.163.com/movie/2014/12/D/4/MAD7E5IC1_MAD7MRKD4.html) 推荐
 5. [鲁豫有约:罗永浩·天生骄傲的理想主义者](http://v.qq.com/cover/a/akyu3b8m0gy79od.html)
+6. [解决问题的第一步是承认问题的存在](http://www.miaopai.com/show/pNQJD-7zR8TEMRlAj6pgCA__.htm) 推荐
 
 # 纪录片
 1. [中国新年：全球最大庆典](http://movie.douban.com/subject/26712210/)
