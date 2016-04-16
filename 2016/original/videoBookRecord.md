@@ -28,6 +28,7 @@
 7. [鲁豫有约:罗永浩·彪悍的人生也需要解释](http://v.qq.com/cover/q/q9g1elhzodwg4sa/x0019in109q.html)
 8. [Linus Torvalds: The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=en)
 9. [幸福是什么？](http://open.163.com/movie/2016/1/B/T/MBAM75U2S_MBB7LQSBT.html#share-mob) 推荐
+10. [转移注意力的艺术](http://weibo.com/p/2304445b8098200faa31cad5f7614909de8bc6) 推荐
 
 # 纪录片
 1. [中国新年：全球最大庆典](http://movie.douban.com/subject/26712210/)
