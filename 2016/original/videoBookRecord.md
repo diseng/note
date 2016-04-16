@@ -26,6 +26,7 @@
 5. [鲁豫有约:罗永浩·天生骄傲的理想主义者](http://v.qq.com/cover/a/akyu3b8m0gy79od.html)
 6. [解决问题的第一步是承认问题的存在](http://www.miaopai.com/show/pNQJD-7zR8TEMRlAj6pgCA__.htm) 推荐
 7. [鲁豫有约:罗永浩·彪悍的人生也需要解释](http://v.qq.com/cover/q/q9g1elhzodwg4sa/x0019in109q.html)
+8. [Linus Torvalds: The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=en)
 
 # 纪录片
 1. [中国新年：全球最大庆典](http://movie.douban.com/subject/26712210/)
