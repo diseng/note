@@ -2,6 +2,7 @@
 1. [富爸爸穷爸爸](http://book.douban.com/subject/6438293/) 推荐
 2. [创业维艰](http://book.douban.com/subject/26306686/)
 3. [奇石](https://book.douban.com/subject/25833450/)
+4. [怪诞行为学2](https://book.douban.com/subject/5253757/)
 
 # 电影
 1. [低俗小说](http://movie.douban.com/subject/1291832/)
@@ -17,6 +18,7 @@
 11. [拯救大兵瑞恩](https://movie.douban.com/subject/1292849/) 推荐
 12. [寻龙诀](https://movie.douban.com/subject/3077412/)
 13. [火锅英雄](https://movie.douban.com/subject/25662327/?from=showing)
+14. [死侍](https://movie.douban.com/subject/3718279/)
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
@@ -36,6 +38,7 @@
 # 电视剧
 1. [无法阻挡的High Kick/搞笑一家人](http://movie.douban.com/subject/2360882/)
 2. [勇者义彦与魔王城](http://movie.douban.com/subject/6402151/)
+3. [权力的游戏 第六季](https://movie.douban.com/subject/25862357/)
 
 # 动漫
 1. [南方公园 第四季](https://movie.douban.com/subject/4882613/)
