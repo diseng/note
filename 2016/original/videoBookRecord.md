@@ -39,6 +39,7 @@
 1. [无法阻挡的High Kick/搞笑一家人](http://movie.douban.com/subject/2360882/)
 2. [勇者义彦与魔王城](http://movie.douban.com/subject/6402151/)
 3. [权力的游戏 第六季](https://movie.douban.com/subject/25862357/)
+4. [硅谷 第三季](https://movie.douban.com/subject/26366492/)
 
 # 动漫
 1. [南方公园 第四季](https://movie.douban.com/subject/4882613/)
