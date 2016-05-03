@@ -3,6 +3,7 @@
 2. [创业维艰](http://book.douban.com/subject/26306686/)
 3. [奇石](https://book.douban.com/subject/25833450/)
 4. [怪诞行为学2](https://book.douban.com/subject/5253757/)
+5. [介绍我自己的思想](https://book.douban.com/subject/24748616/)
 
 # 电影
 1. [低俗小说](http://movie.douban.com/subject/1291832/)
