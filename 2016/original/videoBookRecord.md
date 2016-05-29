@@ -5,6 +5,7 @@
 4. [怪诞行为学2](https://book.douban.com/subject/5253757/)
 5. [介绍我自己的思想](https://book.douban.com/subject/24748616/) 推荐
 6. [只有偏执狂才能生存](https://book.douban.com/subject/5362909/) 推荐
+7. [牛奶可乐经济学](https://book.douban.com/subject/5402682/)
 
 # 电影/话剧
 1. [低俗小说](http://movie.douban.com/subject/1291832/)
