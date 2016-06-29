@@ -52,5 +52,6 @@
 
 # 动漫
 1. [南方公园 第四季](https://movie.douban.com/subject/4882613/)
+2. [银魂](https://movie.douban.com/subject/2057171/)
 
 # 漫画
