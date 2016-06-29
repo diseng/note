@@ -7,6 +7,7 @@
 6. [只有偏执狂才能生存](https://book.douban.com/subject/5362909/) 推荐
 7. [牛奶可乐经济学](https://book.douban.com/subject/5402682/)
 8. [奇特的一生](https://book.douban.com/subject/24739109/) 没看完
+9. [一个人的朝圣](https://book.douban.com/subject/24934182/)
 
 # 电影/话剧
 1. [低俗小说](http://movie.douban.com/subject/1291832/)
