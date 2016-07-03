@@ -28,7 +28,7 @@
 16. [钦差没大臣](https://www.douban.com/location/drama/26263117/) 推荐
 17. [魔兽](https://movie.douban.com/subject/2131940/)
 18. [海底总动员2：多莉去哪儿](https://movie.douban.com/subject/11524967/)
-19. [三傻大闹宝莱坞](https://movie.douban.com/subject/3793023/) 推荐 第N遍看了，每次看当让我落泪，关于亲情、爱情、友情
+19. [三傻大闹宝莱坞](https://movie.douban.com/subject/3793023/) 推荐 第N遍看了，每次看都让我泪流满面，关于亲情、爱情、友情
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
