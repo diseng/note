@@ -51,6 +51,7 @@
 3. [权力的游戏 第六季](https://movie.douban.com/subject/25862357/)
 4. [硅谷 第三季](https://movie.douban.com/subject/26366492/)
 5. [报告老板 第二季](https://movie.douban.com/subject/26762755/)
+6. [深夜食堂](https://movie.douban.com/subject/3991933/)
 
 # 动漫
 1. [南方公园 第四季](https://movie.douban.com/subject/4882613/)
