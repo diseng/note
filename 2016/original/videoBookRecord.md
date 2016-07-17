@@ -30,6 +30,8 @@
 18. [海底总动员2：多莉去哪儿](https://movie.douban.com/subject/11524967/)
 19. [三傻大闹宝莱坞](https://movie.douban.com/subject/3793023/) 推荐 第N遍看了，每次看都让我泪流满面，关于亲情、爱情、友情
 20. [爱在黎明破晓前](https://movie.douban.com/subject/1296339/)
+21. [大鱼海棠](https://movie.douban.com/subject/5045678)
+22. [惊天大逆转](https://movie.douban.com/subject/26375609)
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
