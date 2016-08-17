@@ -36,6 +36,7 @@
 24. [爱在午夜降临前](https://movie.douban.com/subject/10808442/)
 25. [志明与春娇](https://movie.douban.com/subject/4305436/)
 26. [春娇与志明](https://movie.douban.com/subject/6386345/)
+27. [我们诞生在中国](https://movie.douban.com/subject/26376454/)
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
