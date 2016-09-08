@@ -37,6 +37,10 @@
 25. [志明与春娇](https://movie.douban.com/subject/4305436/)
 26. [春娇与志明](https://movie.douban.com/subject/6386345/)
 27. [我们诞生在中国](https://movie.douban.com/subject/26376454/)
+28. [老炮儿](https://movie.douban.com/subject/24751756/) 电视重温
+29. [催眠大师](https://movie.douban.com/subject/24743711/) 电视重温
+30. [泰囧](https://movie.douban.com/subject/10574622/) 电视重温
+31. [遗愿清单](https://movie.douban.com/subject/1867345/)  汽车重温
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
@@ -50,6 +54,7 @@
 9. [幸福是什么？](http://open.163.com/movie/2016/1/B/T/MBAM75U2S_MBB7LQSBT.html#share-mob) 推荐
 10. [转移注意力的艺术](http://weibo.com/p/2304445b8098200faa31cad5f7614909de8bc6) 推荐
 11. [一个简单的方式改掉坏习惯](http://www.miaopai.com/show/OKidGrh~RI8m3JgWCtSmpA__.htm)
+12. [Louie Schwartzberg: Nature. Beauty. Gratitude](https://www.ted.com/talks/louie_schwartzberg_nature_beauty_gratitude?language=en) 推荐
 
 # 纪录片
 1. [中国新年：全球最大庆典](http://movie.douban.com/subject/26712210/)
