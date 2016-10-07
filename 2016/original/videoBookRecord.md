@@ -8,6 +8,7 @@
 7. [牛奶可乐经济学](https://book.douban.com/subject/5402682/)
 8. [奇特的一生](https://book.douban.com/subject/24739109/) 没看完
 9. [一个人的朝圣](https://book.douban.com/subject/24934182/)
+10. [怦然心动的人生整理魔法](https://book.douban.com/subject/10747883/) 总结一下：丢丢丢，只留下令自己心动的东西
 
 # 电影/话剧
 1. [低俗小说](http://movie.douban.com/subject/1291832/)
@@ -22,7 +23,7 @@
 10. [禁闭岛](https://movie.douban.com/subject/2334904/)
 11. [拯救大兵瑞恩](https://movie.douban.com/subject/1292849/) 推荐
 12. [寻龙诀](https://movie.douban.com/subject/3077412/)
-13. [火锅英雄](https://movie.douban.com/subject/25662327/?from=showing)
+13. [火锅英雄](https://movie.douban.com/subject/25662327/)
 14. [死侍](https://movie.douban.com/subject/3718279/)
 15. [荒野猎人](https://movie.douban.com/subject/5327268/)
 16. [钦差没大臣](https://www.douban.com/location/drama/26263117/) 推荐
@@ -40,10 +41,13 @@
 28. [老炮儿](https://movie.douban.com/subject/24751756/) 电视重温
 29. [催眠大师](https://movie.douban.com/subject/24743711/) 电视重温
 30. [泰囧](https://movie.douban.com/subject/10574622/) 电视重温
-31. [遗愿清单](https://movie.douban.com/subject/1867345/)  汽车重温
+31. [遗愿清单](https://movie.douban.com/subject/1867345/)  汽车重温 经典
 32. [釜山行](https://movie.douban.com/subject/25986180/)
-33. [触不可及](https://movie.douban.com/subject/6786002/) 电视重温
+33. [触不可及](https://movie.douban.com/subject/6786002/) 电视重温 经典
 34. [樱桃小丸子：来自意大利的少年](https://movie.douban.com/subject/26469862/)
+35. [从你的全世界路过](https://movie.douban.com/subject/26280528/)
+36. [甲方乙方](https://movie.douban.com/subject/1303173/)
+37. [麦兜当当伴我心](https://movie.douban.com/subject/10772258/)
 
 # TED
 1. [浙商总会马云研判2016经济形势](http://v.qq.com/boke/page/l/0/4/l0185g7eib4.html)
