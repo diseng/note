@@ -64,6 +64,7 @@
 10. [转移注意力的艺术](http://weibo.com/p/2304445b8098200faa31cad5f7614909de8bc6) 推荐
 11. [一个简单的方式改掉坏习惯](http://www.miaopai.com/show/OKidGrh~RI8m3JgWCtSmpA__.htm)
 12. [Louie Schwartzberg: Nature. Beauty. Gratitude](https://www.ted.com/talks/louie_schwartzberg_nature_beauty_gratitude?language=en) 推荐
+13. [马云:当东方遇到西方](http://v.youku.com/v_show/id_XMTg0NzI0NzMzNg==.html)
 
 # 纪录片
 1. [中国新年：全球最大庆典](http://movie.douban.com/subject/26712210/)
