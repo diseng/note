@@ -84,3 +84,8 @@
 2. [银魂](https://movie.douban.com/subject/2057171/)
 
 # 漫画
+
+# 自媒体
+1. [38号车评中心](http://i.youku.com/i/UMTUxMTg3NjU0MA==)  推荐
+2. [暴走大事件](http://v.youku.com/v_show/id_XMTg2NjY0MDE1Ng==.html)  推荐
+3. [车真探](http://i.youku.com/i/UMzQwNjk2NzM4NA==) 推荐
