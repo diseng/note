@@ -1,7 +1,10 @@
 # 书籍
+1. [腾讯传](https://book.douban.com/subject/26929955/)
+2. [下一个倒下的会不会是华为](https://book.douban.com/subject/20283567/)
 
 # 电影/话剧
 1. [情圣](https://movie.douban.com/subject/26879060/)
+2. [追凶者也](https://movie.douban.com/subject/26284621/)
 
 # TED
 
