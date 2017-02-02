@@ -5,6 +5,8 @@
 # 电影/话剧
 1. [情圣](https://movie.douban.com/subject/26879060/)
 2. [追凶者也](https://movie.douban.com/subject/26284621/)
+3. [星际穿越](https://movie.douban.com/subject/1889243/) 重温
+4. [大闹天竺](https://movie.douban.com/subject/26389696/)
 
 # TED
 
